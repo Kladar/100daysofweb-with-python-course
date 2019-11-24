@@ -64,7 +64,7 @@ def get_project(project_id: int) -> JSONResponse:
         error = {'error': PROJECT_NOT_FOUND}
         return JSONResponse(error, status_code=404)
 
-    return JSONResponse(Project(project), status_code=200)
+    return JSONResponse(project, status_code=200)
 
 
 def update_project(project_id: int, project: Project) -> JSONResponse:

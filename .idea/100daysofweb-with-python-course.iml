@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/1-flask/program" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1-flask/program/templates" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/days/005-008-html5/demos/yahoo_clone" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/days/009-012-modern-apis-starred/demo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-API Star" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (100daysofweb-with-python-course)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
