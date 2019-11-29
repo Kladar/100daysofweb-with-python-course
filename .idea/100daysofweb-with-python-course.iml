@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/days/009-012-modern-apis-starred/demo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9-API Star" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/days/013-016-css-basics/your-turn" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/days/021-024-quart-async/your_turn/day_4/cityscape_api" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (100daysofweb-with-python-course)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
